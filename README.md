@@ -1,6 +1,7 @@
 # 👋 Hi, I'm a Full Stack Developer
 
-I enjoy building things that actually work—and make sense for the people using them.
+I enjoy building things that actually work and make sense for the people using them.&nbsp;&nbsp;<img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="120" />
+
 
 ## 💻 Programming Languages
 
