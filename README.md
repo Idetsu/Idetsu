@@ -1,45 +1,45 @@
-## 👋 Hi, I'm a Full Stack Developer
+# 👋 Hi, I'm a Full Stack Developer
 
 I enjoy building things that actually work—and make sense for the people using them.
 
-I focus on problem solving, clean logic, and making sure what I build has a clear purpose beyond just “working code”.
+## 💻 Programming Languages
 
-🚀 What I'm doing
-Building full stack projects
-Improving my skills in JavaScript, React, and Node.js
-Learning by doing, iterating, and solving real problems
-🛠️ Featured Project
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-𝗖𝗼𝗹𝗺𝗲𝗻𝗮𝗖𝗼𝗱𝗲
-A coworking management system built with a team at Generation Chile.
-I worked as Product Owner and Scrum Master, helping coordinate the team, solve issues, and deliver a functional product.
 
-🤝 How I work
+## 🚀 About Me
+- Full Stack Developer (JavaScript, React, Node.js)
+- Experience working in teams using agile methodologies
+- Focused on solving real problems and building useful solutions
 
-I value good team environments.
-I like collaborating, helping others unblock, sharing ideas, and learning from the team.
+## 🔥 Featured Project
+### 𝗖𝗼𝗹𝗺𝗲𝗻𝗮𝗖𝗼𝗱𝗲
+Coworking management system built with a team at Generation Chile.  
+Role: Product Owner & Scrum Master.
 
-I don’t aim to do everything alone—I aim to make the whole team work better.
 
-🎯 Focus
-Build things well, not just fast
-Think about the user, not just the code
-Keep improving through real projects
-📫 Contact
-LinkedIn: (pon tu link)
-Location: Santiago, Chile
+## 🤝 How I work
+I enjoy working in teams with a good environment.  
+I like collaborating, helping others when they get stuck, and learning together.
 
-<!--
-**Idetsu/Idetsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 📫 Contact
+Contact me: [Email](mailto:juhernandezr.dev@gmail.com) / [LinkedIn](https://www.linkedin.com/in/juan-hernandezr/?locale=en-US)
+- Location: Santiago, Chile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ## 🛠️ Tech Stack
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Tools & Environment
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
