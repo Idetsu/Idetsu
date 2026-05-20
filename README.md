@@ -26,7 +26,7 @@ I like collaborating, helping others when they get stuck, and learning together.
 
 ## 📫 Contact
 Contact me: [Email](mailto:juhernandezr.dev@gmail.com) / [LinkedIn](https://www.linkedin.com/in/juan-hernandezr/?locale=en-US)
-- Location: Santiago, Chile
+- Location: Coronel, Concepción, Chile
 
 ## 🛠️ Tech Stack
 
